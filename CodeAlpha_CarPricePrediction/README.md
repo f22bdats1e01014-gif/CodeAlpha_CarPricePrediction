@@ -1,4 +1,4 @@
-# CodeAlpha_CarPricePrediction (Extended Edition)
+# CodeAlpha_CarPricePrediction
 
 **Task 3 — Car Price Prediction with Machine Learning**
 CodeAlpha Data Science Internship
